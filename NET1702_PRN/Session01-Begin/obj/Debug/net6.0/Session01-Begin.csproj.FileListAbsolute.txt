@@ -1,0 +1,14 @@
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/bin/Debug/net6.0/Session01-Begin
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/bin/Debug/net6.0/Session01-Begin.deps.json
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/bin/Debug/net6.0/Session01-Begin.runtimeconfig.json
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/bin/Debug/net6.0/Session01-Begin.dll
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/bin/Debug/net6.0/Session01-Begin.pdb
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/Session01-Begin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/Session01-Begin.AssemblyInfoInputs.cache
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/Session01-Begin.AssemblyInfo.cs
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/Session01-Begin.csproj.CoreCompileInputs.cache
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/Session01-Begin.dll
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/refint/Session01-Begin.dll
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/Session01-Begin.pdb
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/Session01-Begin.genruntimeconfig.cache
+/Users/hendrix/Documents/CSharp_NET/NET1702_PRN/Session01-Begin/obj/Debug/net6.0/ref/Session01-Begin.dll

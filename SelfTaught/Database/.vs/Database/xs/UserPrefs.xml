@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E2A40975-237C-40D8-BFFE-5445CDE4642E}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConnectingDatabase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConnectingDatabase/DBUtils.cs">
+    <Files>
+      <File FileName="ConnectingDatabase/Program.cs" Line="66" Column="148" />
+      <File FileName="ConnectingDatabase/DBUtils.cs" Line="7" Column="3" />
+      <File FileName="ConnectingDatabase/People.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Database" expanded="True">
+            <Node name="ConnectingDatabase" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="DBUtils.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

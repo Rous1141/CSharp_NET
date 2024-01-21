@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{CC55DEAA-9761-4950-AAC3-CF6B0FA2B738}|Default">
+  <MonoDevelop.Ide.ItemProperties.NewYearStory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zodiac/ZodiacCalculator.cs">
+    <Files>
+      <File FileName="Math/Program.cs" />
+      <File FileName="BMICalculator/BmiCalculator.cs" Line="29" Column="9" />
+      <File FileName="Zodiac/ZodiacCalculator.cs" Line="44" Column="77" />
+      <File FileName="NewYearStory/Program.cs" Line="25" Column="56" />
+      <File FileName="NewYearStory/Menu.cs" Line="16" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HealthyandFate" expanded="True">
+            <Node name="BMICalculator" expanded="True" />
+            <Node name="NewYearStory" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True">
+                  <Node name="Zodiac" selected="True" />
+                </Node>
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Zodiac" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BMICalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Math PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

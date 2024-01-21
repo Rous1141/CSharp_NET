@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BMICalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BMICalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BMICalculator.dll": {}
+        }
+      },
+      "Zodiac/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Zodiac.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zodiac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMICalculator/1.0.0": {
+      "type": "project",
+      "path": "../BMICalculator/BMICalculator.csproj",
+      "msbuildProject": "../BMICalculator/BMICalculator.csproj"
+    },
+    "Zodiac/1.0.0": {
+      "type": "project",
+      "path": "../Zodiac/Zodiac.csproj",
+      "msbuildProject": "../Zodiac/Zodiac.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BMICalculator >= 1.0.0",
+      "Zodiac >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/hendrix/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/NewYearStory/NewYearStory.csproj",
+      "projectName": "NewYearStory",
+      "projectPath": "/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/NewYearStory/NewYearStory.csproj",
+      "packagesPath": "/Users/hendrix/.nuget/packages/",
+      "outputPath": "/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/NewYearStory/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/hendrix/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/BMICalculator/BMICalculator.csproj": {
+              "projectPath": "/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/BMICalculator/BMICalculator.csproj"
+            },
+            "/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/Zodiac.csproj": {
+              "projectPath": "/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/Zodiac.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Connector/NET 8.2 Release Notes
+------------------------------------
+Welcome to the release notes for Connector/NET 8.2
+
+What's new in 8.2
+--------------------
+
+Connector/NET added support for the preview version of .NET 8, if you want know more about .NET 8 see (https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8).
+Connector/NET added support for WebAuthn authentication, if you want to know more about it please visit (https://dev.mysql.com/doc/dev/connector-net/latest/api/data_api/MySql.Data.MySqlClient.WebAuthnActionCallback.html).

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4E67DF39-7541-414B-BEAD-399D9B9C6521}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.todoApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="todoApi/Models/TodoContext.cs">
+    <Files>
+      <File FileName="todoApi/Controllers/TodoItemsController.cs" Line="20" Column="1" />
+      <File FileName="todoApi/Program.cs" Line="49" Column="49" />
+      <File FileName="todoApi/Models/DTO/People.cs" Line="1" Column="1" />
+      <File FileName="todoApi/Models/DAO/PeopleDAO.cs" Line="52" Column="31" />
+      <File FileName="todoApi/DatabaseConnection/DBUtils.cs" Line="34" Column="24" />
+      <File FileName="todoApi/Models/PeopleContext.cs" Line="9" Column="46" />
+      <File FileName="todoApi/Models/TodoContext.cs" Line="13" Column="4" />
+      <File FileName="todoApi/Models/TodoItem.cs" Line="9" Column="19" />
+      <File FileName="todoApi/Models/TodoItemsDTO.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="todoApi" expanded="True" selected="True">
+            <Node name="todoApi">
+              <Node name="Models">
+                <Node name="API" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

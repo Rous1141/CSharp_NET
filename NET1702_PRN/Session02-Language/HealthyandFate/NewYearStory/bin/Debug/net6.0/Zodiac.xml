@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Zodiac</name>
+    </assembly>
+    <members>
+        <member name="T:Zodiac.ZodiacCalculator">
+            <summary>
+            This is a comment with comment convention being executed. Descripting the class ZodiacCalculator, the method you use to calculate your Zodiac sign by using your birthday (date and month). By default, it is written in English, then it can convert to Vietnameese
+            </summary>
+        </member>
+        <member name="M:Zodiac.ZodiacCalculator.GetZodiacSign(System.String@)">
+            <summary>
+            Method to enter your date of birth to calculate your Zodiac Sign and return them in many laguage formats.
+            </summary>
+            <param name="error">Return the error code if encounter any missinput</param>
+        </member>
+        <member name="M:Zodiac.ZodiacCalculator.GetZodiacByEnglish(System.Int32,System.Int32)">
+            <summary>
+            This is the proper format using XML format. This is the method you use to calculate your Zodiac sign by using your birthday (date and month). By default, it is written in English.
+            </summary>
+            <param name="day">Day must be in between 1..31</param>
+            <param name="month">Month must be in between 1..12</param>
+            <returns></returns>
+        </member>
+        <member name="M:Zodiac.ZodiacCalculator.GetZodiacByVietnamese(System.String)">
+            <summary>
+            Converting the Zodiac Calculator from English To Vietnamese
+            </summary>
+            <param name="englishZodiac">Send the English result to be translated into Vietnamese</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
