@@ -24,3 +24,4 @@
 /Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/BMICalculator/obj/Debug/net6.0/refint/BMICalculator.dll
 /Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/BMICalculator/obj/Debug/net6.0/BMICalculator.pdb
 /Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/BMICalculator/obj/Debug/net6.0/ref/BMICalculator.dll
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/BMICalculator/obj/Debug/net6.0/BMICalculator.sourcelink.json

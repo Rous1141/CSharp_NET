@@ -10,6 +10,7 @@ class Program
         string error="none";
         do
         {
+            error = "none";
             Menu.MainMenu();
             choice = Console.ReadLine();
             switch (choice)

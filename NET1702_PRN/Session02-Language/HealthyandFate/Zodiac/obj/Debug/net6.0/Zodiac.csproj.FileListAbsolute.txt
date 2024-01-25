@@ -1,0 +1,13 @@
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/bin/Debug/net6.0/Zodiac.deps.json
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/bin/Debug/net6.0/Zodiac.dll
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/bin/Debug/net6.0/Zodiac.pdb
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/bin/Debug/net6.0/Zodiac.xml
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/Zodiac.AssemblyInfoInputs.cache
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/Zodiac.AssemblyInfo.cs
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/Zodiac.csproj.CoreCompileInputs.cache
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/Zodiac.sourcelink.json
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/Zodiac.dll
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/refint/Zodiac.dll
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/Zodiac.pdb
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/Zodiac/obj/Debug/net6.0/ref/Zodiac.dll

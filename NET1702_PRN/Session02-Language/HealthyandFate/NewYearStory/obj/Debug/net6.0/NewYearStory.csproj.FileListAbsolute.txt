@@ -20,3 +20,4 @@
 /Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/NewYearStory/obj/Debug/net6.0/NewYearStory.pdb
 /Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/NewYearStory/obj/Debug/net6.0/NewYearStory.genruntimeconfig.cache
 /Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/NewYearStory/obj/Debug/net6.0/ref/NewYearStory.dll
+/Volumes/Ze_Data/Document/CSharp_NET/NET1702_PRN/Session02-Language/HealthyandFate/NewYearStory/obj/Debug/net6.0/NewYearStory.sourcelink.json
