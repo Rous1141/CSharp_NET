@@ -47,6 +47,16 @@ namespace StudentV4.Entities
             set => _name = value; 
         }
 
+        //Method of this Get() Set() is called Full-property
+        // It will create the SET and GET method WITH a Bakcing Field _name to contain value
+        // quickly generate propfull _tab_tab
+        int _phone;
+        public int Phone
+        {
+            get => _phone;
+            set => _phone = value;
+        }
+
     }
 }
 
